@@ -25,7 +25,9 @@ Welcome to PR!
 
 ## In-network
 [SIGCOMM 23] Direct Telemetry Access
+
 [SIGMOD 22] P4DB - The Case for In-Network OLTP
+
 [NSDI 21] Scaling Distributed Machine Learning with In-Network Aggregation
 
 ## Documents
